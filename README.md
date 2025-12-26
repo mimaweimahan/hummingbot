@@ -1,5 +1,18 @@
 ![Hummingbot](https://github.com/user-attachments/assets/3213d7f8-414b-4df8-8c1b-a0cd142a82d8)
+---
 
+## 💖 赞助支持 (Support)
+
+如果您觉得这个项目对您有所帮助，可以请作者喝杯咖啡，您的支持是我持续维护和迭代的动力！
+
+| 爱发电 (国内推荐) | GitHub Sponsors (海外) |
+| :---: | :---: |
+| [![Afdian](https://img.shields.io/badge/赞助-爱发电-946ce6?style=for-the-badge&logo=target)](https://afdian.com/a/你的用户名) | [![GitHub](https://img.shields.io/badge/Sponsor-GitHub-ea4aaa?style=for-the-badge&logo=github)](https://github.com/sponsors/你的用户名) |
+
+**赞助资金将用于：**
+* 支付项目相关的域名及服务器费用。
+* 激励我投入更多业余时间进行功能更新。
+* 购买更多参考资料或硬件设备用于测试。
 ----
 [![License](https://img.shields.io/badge/License-Apache%202.0-informational.svg)](https://github.com/hummingbot/hummingbot/blob/master/LICENSE)
 [![Twitter](https://img.shields.io/twitter/url?url=https://twitter.com/_hummingbot?style=social&label=_hummingbot)](https://twitter.com/_hummingbot)
