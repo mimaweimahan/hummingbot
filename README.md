@@ -7,7 +7,7 @@
 
 | 爱发电 (国内推荐) | GitHub Sponsors (海外) |
 | :---: | :---: |
-| [![Afdian](https://img.shields.io/badge/赞助-爱发电-946ce6?style=for-the-badge&logo=target)](https://afdian.com/a/你的用户名) | [![GitHub](https://img.shields.io/badge/Sponsor-GitHub-ea4aaa?style=for-the-badge&logo=github)](https://github.com/sponsors/你的用户名) |
+| [![Afdian](https://img.shields.io/badge/赞助-爱发电-946ce6?style=for-the-badge&logo=target)](https://afdian.com/a/haiwaii)
 
 **赞助资金将用于：**
 * 支付项目相关的域名及服务器费用。
