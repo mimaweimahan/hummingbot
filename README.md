@@ -5,8 +5,8 @@
 
 如果您觉得这个项目对您有所帮助，可以请作者喝杯咖啡，您的支持是我持续维护和迭代的动力！
 
-| 爱发电 (国内推荐) | GitHub Sponsors (海外) |
-| :---: | :---: |
+| 爱发电 (国内推荐) | 
+| :---: |
 | [![Afdian](https://img.shields.io/badge/赞助-爱发电-946ce6?style=for-the-badge&logo=target)](https://afdian.com/a/haiwaii)
 
 **赞助资金将用于：**
